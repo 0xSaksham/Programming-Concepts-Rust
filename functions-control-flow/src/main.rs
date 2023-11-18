@@ -17,3 +17,8 @@ fn parameter_function(x:i32){
 fn two_parameter_function(value:i32, unit_label:char){
     println!("Value:{value} and Unit:{unit_label}\n");
 }
+
+// Statement and Expressions 
+
+
+
