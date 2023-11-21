@@ -1,5 +1,3 @@
-Sure, here is a README for GitHub:
-
 **Programming Concepts Rust**
 
 **Description**
